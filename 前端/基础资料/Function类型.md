@@ -27,16 +27,16 @@ function factorial(num) {
 apply(this, [arg1, arg2...])
 apply(this, arguments) 
 ```
-![0](/Users/borderxlab/Notebook/前端/apply的用法说明.jpg)
+![](./pic/apply的用法说明.jpg)
 
 ```
 call(this, arg1, arg2...)
 ```
-![](/Users/borderxlab/Notebook/前端/call的用法说明.jpg)
-
+![](./pic/call的用法说明.jpg)
 ```
 bind()
 ```
-![bind的用法说明](/Users/borderxlab/Notebook/前端/Jietu20170515-171238.jpg)
+![bind的用法说明](./pic/Jietu20170515-171238.jpg)
+
 
 
