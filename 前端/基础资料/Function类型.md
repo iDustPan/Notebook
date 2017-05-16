@@ -29,14 +29,19 @@ apply(this, arguments)
 ```
 ![](./pic/apply的用法说明.jpg)
 
+
 ```
 call(this, arg1, arg2...)
 ```
 ![](./pic/call的用法说明.jpg)
+    
+    
 ```
 bind()
 ```
 ![bind的用法说明](./pic/Jietu20170515-171238.jpg)
+
+
 
 
 
